@@ -8,7 +8,7 @@
  * e.g., it puts together the home page when no home.php file exists.
  *
  * Learn more: {@link https://codex.wordpress.org/Template_Hierarchy}
- *
+ *GitHub Theme URI: https://github.com/bayon/twentyfifteenX
  * @package WordPress
  * @subpackage Twenty_Fifteen
  * @since Twenty Fifteen 1.0
